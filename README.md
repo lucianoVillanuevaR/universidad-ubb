@@ -70,7 +70,7 @@ git clone https://github.com/lucianoVillanuevaR/universidad-ubb.git
 cd universidad-ubb
 ~~~
 
-Entra a la carpeta del proyecto que te interese y consulta su \`README.md\`. Los proyectos son **independientes**: no existe un comando único para instalar o ejecutar todo el repositorio. Algunos requieren Node.js o Python, otros Java y otros una base de datos PostgreSQL. Determinados datasets o archivos de configuración deben prepararse por separado.
+Entra a la carpeta del proyecto que te interese y consulta su `README.md`. Los proyectos son **independientes**: no existe un comando único para instalar o ejecutar todo el repositorio. Algunos requieren Node.js o Python, otros Java y otros una base de datos PostgreSQL. Determinados datasets o archivos de configuración deben prepararse por separado.
 
 ## Autoría y uso académico
 
