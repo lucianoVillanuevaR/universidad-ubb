@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local
+.env
+
+# VS Code
+.vscode/
+
+# Archivos comprimidos
+*.zip
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

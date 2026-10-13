@@ -1,0 +1,16 @@
+division,clase,cantidad
+train,dienteleon,33
+train,girasol,20
+train,margarita,35
+train,rosa,23
+train,tulipan,67
+valid,dienteleon,13
+valid,girasol,14
+valid,margarita,10
+valid,rosa,4
+valid,tulipan,12
+test,dienteleon,4
+test,girasol,4
+test,margarita,5
+test,rosa,4
+test,tulipan,7
