@@ -1,0 +1,23 @@
+# NetBeans/Ant
+nbproject/private/
+build/
+dist/
+nbproject/private/configurations.xml
+nbproject/private/private.properties
+nbproject/private/private.xml
+
+# Build artifacts
+*.class
+*.log
+
+# App data
+datos_talleres.dat
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
