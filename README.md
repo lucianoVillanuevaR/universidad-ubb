@@ -4,9 +4,15 @@ Repositorio académico de **Ingeniería de Ejecución en Computación e Informá
 
 Aquí se reúnen trabajos, laboratorios, ejercicios y material de asignaturas en un solo lugar, organizados por área y proyecto. Cada carpeta conserva su código y, cuando está disponible, su documentación específica.
 
-**9 proyectos · 6 áreas académicas · JavaScript, Python, Java, SQL y tecnologías web**
+**10 proyectos · 7 áreas académicas · C++, JavaScript, Python, Java, SQL y tecnologías web**
 
 ## Índice de proyectos
+
+### Análisis de Algoritmos y Teoría de Autómatas (AATA)
+
+| Proyecto | Descripción | Tecnologías |
+| --- | --- | --- |
+| [Proyecto 01 — Multiplicación de matrices](analisis-de-algoritmos/proyecto-01/) | Comparación de los algoritmos tradicional, divide y vencerás (DR1) y Strassen (DR2), con medición de tiempos y análisis asintótico. | C++17 |
 
 ### Inteligencia Artificial
 
@@ -51,6 +57,8 @@ Aquí se reúnen trabajos, laboratorios, ejercicios y material de asignaturas en
 
 ~~~text
 universidad-ubb/
+├── analisis-de-algoritmos/
+│   └── proyecto-01/
 ├── bases-de-datos/
 │   └── proyecto-alumnos/
 ├── ingenieria-de-software/
@@ -78,7 +86,7 @@ git clone https://github.com/lucianoVillanuevaR/universidad-ubb.git
 cd universidad-ubb
 ~~~
 
-Entra a la carpeta del proyecto que te interese y consulta su `README.md`. Los proyectos son **independientes**: no existe un comando único para instalar o ejecutar todo el repositorio. Algunos requieren Node.js o Python, otros Java y otros una base de datos PostgreSQL. Determinados datasets o archivos de configuración deben prepararse por separado.
+Entra a la carpeta del proyecto que te interese y consulta su `README.md`. Los proyectos son **independientes**: no existe un comando único para instalar o ejecutar todo el repositorio. Algunos requieren Node.js o Python, otros C++ o Java y otros una base de datos PostgreSQL. Determinados datasets o archivos de configuración deben prepararse por separado.
 
 ## Autoría y uso académico
 
