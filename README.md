@@ -12,7 +12,8 @@ Aquí se reúnen trabajos, laboratorios, ejercicios y material de asignaturas en
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
-| [Proyecto 01 — Multiplicación de matrices](analisis-de-algoritmos/proyecto-01/) | Comparación de los algoritmos tradicional, divide y vencerás (DR1) y Strassen (DR2), con medición de tiempos y análisis asintótico. | C++17 |\n| [Proyecto 02 — Simulador de APD](analisis-de-algoritmos/proyecto-02/) | Simulador de autómatas con pila deterministas (APD), con validación de entrada, trazas de configuraciones, detección de ciclos y pruebas automatizadas. | Python 3 |
+| [Proyecto 01 — Multiplicación de matrices](analisis-de-algoritmos/proyecto-01/) | Comparación de los algoritmos tradicional, divide y vencerás (DR1) y Strassen (DR2), con medición de tiempos y análisis asintótico. | C++17 |
+| [Proyecto 02 — Simulador de APD](analisis-de-algoritmos/proyecto-02/) | Simulador de autómatas con pila deterministas (APD), con validación de entrada, trazas de configuraciones, detección de ciclos y pruebas automatizadas. | Python 3 |
 
 ### Inteligencia Artificial
 
@@ -58,7 +59,8 @@ Aquí se reúnen trabajos, laboratorios, ejercicios y material de asignaturas en
 ~~~text
 universidad-ubb/
 ├── analisis-de-algoritmos/
-│   └── proyecto-01/
+│   ├── proyecto-01/
+│   └── proyecto-02/
 ├── bases-de-datos/
 │   └── proyecto-alumnos/
 ├── ingenieria-de-software/
