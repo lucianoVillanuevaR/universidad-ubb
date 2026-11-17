@@ -1,6 +1,8 @@
 # Proyecto 02 — Simulador de APD
 
-Asignatura: **Análisis de Algoritmos y Teoría de Autómatas (AATA)** — Universidad del Bío-Bío.\n\nImplementación en Python 3 de un simulador de autómatas con pila
+Asignatura: **Análisis de Algoritmos y Teoría de Autómatas (AATA)** — Universidad del Bío-Bío.
+
+Implementación en Python 3 de un simulador de autómatas con pila
 deterministas. Lee bloques de ocho líneas desde la entrada estándar, valida el
 autómata, imprime la traza de configuraciones y termina cada cómputo con
 `Aceptado` o `Rechazado`.
@@ -70,6 +72,8 @@ Proyecto2/
 ├── main.py
 ├── dpda.py
 ├── README.md
+├── docs/
+│   └── INFORME_AUDITORIA.md
 └── tests/
     ├── __init__.py
     └── test_dpda.py
