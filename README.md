@@ -4,7 +4,7 @@ Repositorio académico de **Ingeniería de Ejecución en Computación e Informá
 
 Aquí se reúnen trabajos, laboratorios, ejercicios y material de asignaturas en un solo lugar, organizados por área y proyecto. Cada carpeta conserva su código y, cuando está disponible, su documentación específica.
 
-**10 proyectos · 7 áreas académicas · C++, JavaScript, Python, Java, SQL y tecnologías web**
+**11 proyectos · 7 áreas académicas · C++, JavaScript, Python, Java, SQL y tecnologías web**
 
 ## Índice de proyectos
 
@@ -12,7 +12,7 @@ Aquí se reúnen trabajos, laboratorios, ejercicios y material de asignaturas en
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
-| [Proyecto 01 — Multiplicación de matrices](analisis-de-algoritmos/proyecto-01/) | Comparación de los algoritmos tradicional, divide y vencerás (DR1) y Strassen (DR2), con medición de tiempos y análisis asintótico. | C++17 |
+| [Proyecto 01 — Multiplicación de matrices](analisis-de-algoritmos/proyecto-01/) | Comparación de los algoritmos tradicional, divide y vencerás (DR1) y Strassen (DR2), con medición de tiempos y análisis asintótico. | C++17 |\n| [Proyecto 02 — Simulador de APD](analisis-de-algoritmos/proyecto-02/) | Simulador de autómatas con pila deterministas (APD), con validación de entrada, trazas de configuraciones, detección de ciclos y pruebas automatizadas. | Python 3 |
 
 ### Inteligencia Artificial
 
